@@ -7,6 +7,13 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/compare/v1.6.0...v1.7.0) (2020-08-17)
+
+
+### Features
+
+* Add is_live field to simple_bucket lifecycle ([#76](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/issues/76)) ([a16305d](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/commit/a16305dfad12ef06881a73a6c2a33fe7fe569bfb))
+
 ## [1.6.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/compare/v1.5.0...v1.6.0) (2020-05-26)
 
 
